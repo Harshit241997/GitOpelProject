@@ -4,5 +4,15 @@ Hello World................!!!!!!!!!!!
 Welcome.........
 
 
+<<<<<<< HEAD
 change 1 placed for feature - login
 change 2
+=======
+change 1 placed for feature -> login
+
+change for feature ->logout
+
+change to fix ->bug1
+
+change to fix ->bug2
+>>>>>>> file1 updated for bug 2
